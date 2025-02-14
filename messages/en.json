@@ -1,0 +1,55 @@
+{
+  "AppLayout": {
+    "home": "Home",
+    "logout": "Logout",
+    "profile": "Profile"
+  },
+  "HomePage": {
+    "title": "Home"
+  },
+  "LocaleSwitcher": {
+    "de": "🇩🇪 Deutsch",
+    "en": "🇺🇸 English",
+    "switchLocale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}",
+    "label": "Language"
+  },
+  "LoginPage": {
+    "credentials": "Credentials: jane@doe.com / next-intl",
+    "description": "Please enter your details.",
+    "email": "Email",
+    "invalidCredentials": "Please check your credentials.",
+    "invalidEmail": "Please enter a valid email address.",
+    "invalidPassword": "Please enter a password.",
+    "login": "Sign in",
+    "password": "Password",
+    "title": "Welcome back"
+  },
+  "ProfilePage": {
+    "title": "Profile"
+  },
+  "Manifest": {
+    "name": "next-intl example"
+  },
+  "Error": {
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
+    "title": "Something went wrong!"
+  },
+  "NotFoundPage": {
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
+    "title": "Page not found"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Learn more about next-intl in the official docs.",
+        "href": "https://next-intl-docs.vercel.app/",
+        "title": "Docs"
+      },
+      "source": {
+        "description": "Browse the source code of this example on GitHub.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Source code"
+      }
+    }
+  }
+}
